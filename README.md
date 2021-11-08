@@ -1,5 +1,5 @@
 # genshin_impact_personal_tracker
-Keep easy track of your - 4* and 5* - characters and weapons  from wishes and crafting. Only enter the *date* (optional), number of *wishes since last 5 star* , and select your *character/weapon from dropdown menus* and **everything else is calculated automatically**.
+Keep easy track of your - 4* and 5* - characters and weapons  from wishes and crafting. Only enter the <u>date</u> (optional), number of <u>wishes since last 5*</u> , and select your <u>character/weapon from dropdown menus</u> and **everything else is calculated automatically**.
 
 # v1
 - Base Template ("Event" and "Permanent" Banners) with basic formula or conditions
