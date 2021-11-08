@@ -1,5 +1,5 @@
 # genshin_impact_personal_tracker
-Keep easy track of your - 4* and 5* - characters and weapons  from wishes and crafting.
+Keep easy track of your - 4* and 5* - characters and weapons  from wishes and crafting. Only enter the *date* (optional), number of *wishes since last 5 star* , and select your *character/weapon from dropdown menus* and **everything else is calculated automatically**.
 
 # v1
 - Base Template ("Event" and "Permanent" Banners) with basic formula or conditions
@@ -12,8 +12,8 @@ Keep easy track of your - 4* and 5* - characters and weapons  from wishes and cr
 
 # v3 (in development)
 - Added sheet for tracking gifts (free characters/weapons from events), weapons crafted, and shop purchases
-- Added "Counters" sheet for compiling data from across all banners, gifts, purchases, and crafts
-- Highest possible Constellation and Refinement estimation on "Counters"
+- Added "Counters" sheet for ENTIRELY AUTOMATIC compilation of data from across all banners, gifts, purchases, and crafts
+- Highest possible Constellation and Refinement AUTOMATIC estimation on "Counters"
 
 **v3 Sneak Peeks available.**
 
